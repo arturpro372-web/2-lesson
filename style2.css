@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(rgb(62, 14, 183),rgb(20, 4, 50));
+    color: rgb(255, 140, 0);
+    min-height: 100vh;
+}
+ol{
+    padding-top: 50px;
+    padding-left: 50px;
+    column-count: 2;
+}
+img{
+    width: 200px;
+    border-radius: 20px;
+}
+:ul li{
+    padding-top: 20px;
+    font-weight: 400;
+}
+ol li{
+    padding-top: 20px;
+    font-weight: 700;
+}
